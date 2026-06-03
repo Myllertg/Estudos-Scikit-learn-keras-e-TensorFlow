@@ -151,13 +151,13 @@ Ao longo deste projeto foram praticados conceitos essenciais para problemas de c
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Myllertg/Estudos-Scikit-learn-keras-e-TensorFlow
 ```
 
 Acesse a pasta:
 
 ```bash
-cd seu-repositorio
+cd Estudos-Scikit-learn-keras-e-TensorFlow
 ```
 
 Instale as dependências:
